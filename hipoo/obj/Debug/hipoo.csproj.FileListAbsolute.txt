@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\hipoo\hipoo\bin\Debug\hipoo.exe.config
+C:\Users\User\source\repos\hipoo\hipoo\bin\Debug\hipoo.exe
+C:\Users\User\source\repos\hipoo\hipoo\bin\Debug\hipoo.pdb
+C:\Users\User\source\repos\hipoo\hipoo\obj\Debug\hipoo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\hipoo\hipoo\obj\Debug\hipoo.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\hipoo\hipoo\obj\Debug\hipoo.Form1.resources
+C:\Users\User\source\repos\hipoo\hipoo\obj\Debug\hipoo.Properties.Resources.resources
+C:\Users\User\source\repos\hipoo\hipoo\obj\Debug\hipoo.csproj.GenerateResource.cache
+C:\Users\User\source\repos\hipoo\hipoo\obj\Debug\hipoo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hipoo\hipoo\obj\Debug\hipoo.exe
+C:\Users\User\source\repos\hipoo\hipoo\obj\Debug\hipoo.pdb
